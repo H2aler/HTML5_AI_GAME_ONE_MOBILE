@@ -38,7 +38,8 @@ git clone [저장소 URL]
 
 2. 게임 실행
 - `index.html` 파일을 웹 브라우저에서 열기
-- 또는 GitHub Pages(https://h2aler.github.io/HTML5_AI_GAME_ONE_MOBILE/)를 통해 온라인으로 플레이
+- 또는 GitHub Pages(https://h2aler.github.io/HTML5_AI_GAME_ONE_MOBILE/)
+- 를 통해 온라인으로 플레이
   
 
 ## 🛠 기술 스택
